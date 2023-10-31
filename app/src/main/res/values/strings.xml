@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppDeliveryJava</string>
+    <string name="Entrar">Entrar</string>
+    <string name="text_cadastro">Cliente. Criar conta</string>
+    <string name="text_cadastroMb">Entregador. Criar conta</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="title_activity_localizacso">localizacso</string>
+</resources>

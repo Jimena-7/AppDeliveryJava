@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102421206882",
+    "project_id": "app-entregas-f9bd5",
+    "storage_bucket": "app-entregas-f9bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102421206882:android:ceb5b280c2215a78293e3b",
+        "android_client_info": {
+          "package_name": "com.example.appdeliveryjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_7AWFPPsgklGoUnuAKGJhxDbsVyrquM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
